@@ -6,19 +6,27 @@ This Project demontrates how to clean and transform categorical and numrical val
 ## Technologies Used
 
 Python
+
 Pandas
+
 Jupyter Notebook
 
 ## Resources
 
 File used:
+
 studentmat.xlsx:This dataset typically  related to mathematical performance
+
 studentpor.xlsx:This dataset typically includes protuguese sunbject performance
 
 ## About the Dataset
 
 Personal & Demographic Information-(age,sex,adress,famsize,pstatus)
+
 Family & parental Background-(mjob,fjob,medu,fedu,guardian)
+
 Academic & Study Habits-(studytime,failures,schoolsup,paid,activities)
+
 social & lifestyle Factors-(goout,health,absences)
+
 Final Protuguese Grades-(G1,G2,G3)
