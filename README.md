@@ -19,7 +19,7 @@ studentmat.xlsx->This dataset typically  related to mathematical performance
 
 studentpor.xlsx->This dataset typically includes protuguese sunbject performance
 
-## About the Dataset Columns
+## Dataset Information 
 
 Personal & Demographic Information-(age,sex,adress,famsize,pstatus)
 
