@@ -21,12 +21,15 @@ studentpor.xlsx->This dataset typically includes protuguese sunbject performance
 
 ## Dataset Information 
 
-Personal & Demographic Information-(age,sex,adress,famsize,pstatus)
+Key columns:
 
-Family & parental Background-(mjob,fjob,medu,fedu,guardian)
+(age,sex,adress,famsize,pstatus)-Personal & Demographic Information
 
-Academic & Study Habits-(studytime,failures,schoolsup,paid,activities)
+(mjob,fjob,medu,fedu,guardian)-Family & parental Background
 
-social & lifestyle Factors-(goout,health,absences)
+(studytime,failures,schoolsup,paid,activities)-Academic & Study Habits
 
-Final Protuguese Grades-(G1,G2,G3)
+(goout,health,absences)-
+social & lifestyle Factors
+
+(G1,G2,G3)-Final Protuguese Grades
