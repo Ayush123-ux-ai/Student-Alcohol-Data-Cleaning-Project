@@ -1,4 +1,4 @@
-# Student-Alcohol-Data-Cleaning-Project
+# Student-Alcohol-Data-Cleaning-Project-Python
 ## Project Overview
 
 This Project demontrates how to clean and transform categorical and numrical values.The workflow includes includes capitalizing inconsistent string entries using conditional lambda functions and generating a new boolean column (legal drinker) based on age criteria.
