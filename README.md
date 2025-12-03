@@ -15,8 +15,7 @@ Jupyter Notebook
 
 File used:
 
-Student-Alcohol-Data-Cleaning-Project
-/studentmat.xlsx->This dataset typically  related to mathematical performance
+studentmat.xlsx->This dataset typically  related to mathematical performance
 
 studentpor.xlsx->This dataset typically includes protuguese sunbject performance
 
